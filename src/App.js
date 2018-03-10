@@ -14,6 +14,19 @@ const ITEMS = [
   { name: 'Orchids' },
 ]
 
+
+const PERSONS = [
+  { fisrtName: 'Đài' },
+  { fisrtName: 'Kim' },
+  { fisrtName: 'Tuyền' },
+  { fisrtName: 'Tâm' },
+  { fisrtName: 'Hữu' },
+  { fisrtName: 'Nhàn' },
+  { fisrtName: 'Thanh' },
+  { fisrtName: 'Hiếu' },
+]
+
+
 function actionChangeItem(item) {
   console.log('click item', item);
 }
